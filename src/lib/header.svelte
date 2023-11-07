@@ -4,7 +4,7 @@
 	$: routeId = $page.route.id;
 </script>
 
-<nav class="sticky top-0 py-15 flex justify-center">
+<nav class="sticky top-0 py-10 md:py-15 flex justify-center">
 	<div class="flex gap-2 bg-light-gray/50 backdrop-blur-lg p-2 rounded-full w-[300px]">
 		<a
 			href="{base}/"

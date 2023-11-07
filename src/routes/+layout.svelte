@@ -1,8 +1,10 @@
 <script>
 	import '../app.css';
-	import { Header } from '$lib';
+	import { Header, Footer } from '$lib';
 </script>
 
 <Header />
 
 <slot />
+
+<Footer />
